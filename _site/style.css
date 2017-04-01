@@ -1,0 +1,30 @@
+figure {
+  padding:0;
+  margin:0;
+  border:2px solid red;
+}
+
+/* force image to fit into and fill figure tag */
+figure img {
+  width:100%;
+}
+
+figcaption {
+  border:2px solid blue;
+}
+
+.half-width {
+  width:50%;
+}
+
+.text-right {
+  text-align:right;
+}
+
+.container-figure {
+  border:2px solid green;
+}
+
+hr {
+  margin: 2em 0;
+}
