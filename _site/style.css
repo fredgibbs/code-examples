@@ -11,6 +11,11 @@ figure img {
 
 figcaption {
   border:2px solid blue;
+  font-size:12px;
+}
+
+.quarter-width {
+  width:25%;
 }
 
 .half-width {
@@ -22,7 +27,12 @@ figcaption {
 }
 
 .container-figure {
-  border:2px solid green;
+  border:4px solid green;
+}
+
+.float-right {
+  float:right;
+  margin: 0 0 .5rem 1rem;
 }
 
 hr {
